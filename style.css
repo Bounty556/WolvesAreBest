@@ -3,13 +3,13 @@ body {
 }
 
 main {
-    width: 600px;
+    width: 50%;
     margin: 0 auto;
     background-color: beige;
 }
 
 img {
-    width: 300px;
+    width: 50%;
     float: left;
 }
 
