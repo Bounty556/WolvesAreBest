@@ -1,0 +1,24 @@
+body {
+    background-color: antiquewhite;
+}
+
+main {
+    width: 600px;
+    margin: 0 auto;
+    background-color: beige;
+}
+
+img {
+    width: 300px;
+    float: left;
+}
+
+.clearFix::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+#source {
+    font-size: smaller;
+}
